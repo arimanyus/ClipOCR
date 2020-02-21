@@ -23,4 +23,4 @@ On running `main.py`, the program will grab the image that you have in your clip
 
 Tesseract recommends images above 300 dpi to function well. It's unlikely for your clipboard to encompass such images and therefore 100% accuracy is not guarenteed.
 
-Windows 10 users can use Windows' inbuilt Snip & Sketch program (`Win + Shift + S)` to take screenshots and save them to clipboards. MacOS users can use the shortcut `Alt + Shift + 4` to do the same.
+Windows 10 users can use Windows' inbuilt Snip & Sketch program (`Win + Shift + S`) to take screenshots and save them to clipboards. MacOS users can use the shortcut `Alt + Shift + 4` to do the same.
